@@ -1,0 +1,6 @@
+/home/fatima/Projects/Rabattrechner/Rabattrechner/obj/x86/Debug/Rabattrechner.csproj.AssemblyReference.cache
+/home/fatima/Projects/Rabattrechner/Rabattrechner/obj/x86/Debug/Rabattrechner.csproj.CoreCompileInputs.cache
+/home/fatima/Projects/Rabattrechner/Rabattrechner/bin/Debug/Rabattrechner.exe
+/home/fatima/Projects/Rabattrechner/Rabattrechner/bin/Debug/Rabattrechner.pdb
+/home/fatima/Projects/Rabattrechner/Rabattrechner/obj/x86/Debug/Rabattrechner.exe
+/home/fatima/Projects/Rabattrechner/Rabattrechner/obj/x86/Debug/Rabattrechner.pdb
